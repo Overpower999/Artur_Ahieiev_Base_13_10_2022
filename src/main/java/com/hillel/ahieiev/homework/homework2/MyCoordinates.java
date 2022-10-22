@@ -11,3 +11,6 @@ public class MyCoordinates {
         System.out.println(latitude + "° широты " + longitude + "° долготы.");
     }
 }
+/* test push
+revers
+ */
