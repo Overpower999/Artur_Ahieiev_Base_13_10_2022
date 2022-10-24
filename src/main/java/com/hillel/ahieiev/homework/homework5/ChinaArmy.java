@@ -1,4 +1,4 @@
-package com.hillel.ahieiev.homework.homework4;
+package com.hillel.ahieiev.homework.homework5;
 
 public class ChinaArmy {
     public static void main(String[] args) {
@@ -26,3 +26,4 @@ public class ChinaArmy {
 
     }
 }
+
