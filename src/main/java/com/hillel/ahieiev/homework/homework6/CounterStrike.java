@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class CounterStrike {
     public static void main(String[] args) {
-
+        //
         final String error = "Введено неверное значение, попробуйте ещё раз!";
         //
         int playerOne1 = 0;
