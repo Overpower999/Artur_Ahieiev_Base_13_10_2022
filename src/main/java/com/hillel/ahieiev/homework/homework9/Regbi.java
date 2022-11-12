@@ -30,8 +30,8 @@ public class Regbi {
 
         System.out.println();
 
-        System.out.println("Срединй возвраст игрока первой команды: "+sumOne / teamOne.length);
-        System.out.println("Срединй возвраст игрока второй команды: "+sumTwo / teamTwo.length);
+        System.out.println("Срединй возвраст игрока первой команды: " + sumOne / teamOne.length);
+        System.out.println("Срединй возвраст игрока второй команды: " + sumTwo / teamTwo.length);
 
     }
 }
