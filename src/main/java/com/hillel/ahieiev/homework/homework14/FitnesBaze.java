@@ -98,7 +98,7 @@ public class FitnesBaze {
                 + getYear() + "\n" + "Эмеил : " + getMail() + "\n" + "Телефон : " + getTelefonNumber()
                 + "\n" + "Фамилия : " + getSurname() + "\n" + "Вес : " + getWeight() +
                 "\n" + "Давление : " + getPressure() + "\n" + "Количевство пройденых шагов : "
-                + getNumberSteps() + "\n" + "Возвраст : " + getAge() + "\n" + "-----------------" + "\n");
+                + getNumberSteps() + "\n" + "Возвраст : " + getAge() + "\n" + "-----------------");
 
     }
 

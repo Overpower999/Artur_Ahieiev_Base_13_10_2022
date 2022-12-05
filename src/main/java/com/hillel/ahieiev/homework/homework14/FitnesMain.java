@@ -3,7 +3,7 @@ package com.hillel.ahieiev.homework.homework14;
 public class FitnesMain {
     public static void main(String[] args) {
 
-        FitnesBaze afonya = new FitnesBaze("Afonya", 31, 05, 2001, "afonya321@mail.ua", "+3809552324",
+        FitnesBaze afonya = new FitnesBaze("Afonya", 31, 5, 2001, "afonya321@mail.ua", "+3809552324",
                 "Gazmanov", 90.4, "80/110", 4532);
 
         afonya.printAccountInfo();
