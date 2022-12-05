@@ -1,6 +1,6 @@
 package com.hillel.ahieiev.homework.homework14;
 
-public class Main {
+public class FitnesMain {
     public static void main(String[] args) {
 
         FitnesBaze afonya = new FitnesBaze("Afonya", 31, 05, 2001, "afonya321@mail.ua", "+3809552324",
