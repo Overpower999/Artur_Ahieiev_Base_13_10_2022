@@ -99,6 +99,7 @@ public class FitnesBaze {
                 + "\n" + "Фамилия : " + getSurname() + "\n" + "Вес : " + getWeight() +
                 "\n" + "Давление : " + getPressure() + "\n" + "Количевство пройденых шагов : "
                 + getNumberSteps() + "\n" + "Возвраст : " + getAge() + "\n" + "-----------------" + "\n");
+
     }
 
 }

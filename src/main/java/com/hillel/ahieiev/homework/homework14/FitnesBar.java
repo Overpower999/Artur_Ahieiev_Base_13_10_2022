@@ -24,6 +24,5 @@ public class FitnesBar {
         sasha.setNumberSteps(64232);
         sasha.printAccountInfo();
 
-
     }
 }
